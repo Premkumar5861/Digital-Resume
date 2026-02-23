@@ -1,4 +1,4 @@
- 📄 Digital Resume / Portfolio Website
+ #📄 Digital Resume / Portfolio Website
 
 A sleek, professional, and fully responsive **Digital Resume** built using **HTML5, CSS3, and JavaScript**. This project features a modern UI with a dedicated **Dark Mode/Light Mode** switcher to enhance user experience.
 
